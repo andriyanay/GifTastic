@@ -1,0 +1,25 @@
+body {
+    background-color: #708090;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid;
+    border-color: black;
+    background-color: #FFF5EE;
+    
+}
+
+button {
+    margin: 2px;
+    font-family: 'Times New Roman', Times, serif;
+};
+
+
+
+
+
+
