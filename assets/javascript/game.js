@@ -1,4 +1,4 @@
-// Array of movies - 16
+// Array of heroes - 16
 var superheroes = ["Black Panther", "Thor", "Iron Man", "Spider-Man", "War Machine", "Rocket Raccoon", "Groot", 
 "Peter Quill", "Black Widow", "Killmonger", "Loki", "Gamora", "Drax the Destroyer", "Captain America", "Hawkeye", 
 "Hulk", ]; 
